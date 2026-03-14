@@ -1,0 +1,12 @@
+|practice2
+i_clk => y_ff.CLK
+i_clk => c_ff.CLK
+i_clk => b_ff.CLK
+i_clk => a_ff.CLK
+i_arst => ~NO_FANOUT~
+i_a => a_ff.DATAIN
+i_b => b_ff.DATAIN
+i_c => c_ff.DATAIN
+o_y <= y_ff.DB_MAX_OUTPUT_PORT_TYPE
+
+
