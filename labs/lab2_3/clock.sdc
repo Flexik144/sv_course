@@ -1,0 +1,1 @@
+create_clock -name i_clk -period 4.166 [get_ports i_clk]

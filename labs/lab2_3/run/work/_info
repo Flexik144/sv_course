@@ -1,0 +1,90 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\temp_lab\lab2_3\run
+vedge_detector
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+!s100 Djc2cAo_@XIFK0]hNkZ<k2
+IkGFoYoIE>n@XgcIIk?QR`3
+VQFW3d06?OAiB>7_k3zhIE2
+S1
+w1779534488
+8../edge_detector.sv
+F../edge_detector.sv
+L0 1
+Z3 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vshift_register
+R1
+R2
+IF:hlca`laSZBPa`9>b9`E0
+V]3e5:K]OQJichd[aoRFJk0
+S1
+w1779535489
+8../shift_register.sv
+F../shift_register.sv
+L0 1
+R3
+r1
+31
+o-O0
+!s100 FS;?L;;<fIfRKfXHgYC_@0
+!s85 0
+!s101 -O0
+vspi_counter
+R1
+R2
+Ic?3b00488gShIN[ePS6Bg3
+V1MGOAU]QSP:gkz0zD3IPc2
+S1
+w1779535497
+8../spi_counter.sv
+F../spi_counter.sv
+L0 1
+R3
+r1
+31
+o-O0
+!s100 h[F09[;>a<e82FU?LF?K_2
+!s85 0
+!s101 -O0
+vspi_receiver_top
+R1
+R2
+InMTbOil[_jgcQIKeS>mh>3
+VY2RkeD9C_z>Rhe=?FYi0^1
+S1
+w1779536406
+8../spi_receiver_top.sv
+F../spi_receiver_top.sv
+L0 1
+R3
+r1
+31
+o-O0
+!s100 g=TJBQLW2DMMUb5_Il9]a3
+!s85 0
+!s101 -O0
+vtb_spi_receiver
+R1
+R2
+ID6W62DZ8dGa>>3jzKAgVE0
+VfQ>nmn0:ofmY`[U:M[Wg?2
+S1
+w1779540381
+8../tb_spi_receiver.sv
+F../tb_spi_receiver.sv
+L0 3
+R3
+r1
+31
+o-O0
+!s100 `Ldc2nO<e@o1=KZoedA5B2
+!s85 0
+!s101 -O0

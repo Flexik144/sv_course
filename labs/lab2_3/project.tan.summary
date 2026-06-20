@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 5.682 ns
+From           : i_sck
+To             : shift_register:shift_register_inst|shift_reg[5][1]
+From Clock     : --
+To Clock       : i_clk
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 7.407 ns
+From           : shift_register:shift_register_inst|shift_reg[2][1]
+To             : o_data[17]
+From Clock     : i_clk
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 8.548 ns
+From           : i_sck
+To             : o_valid
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -2.458 ns
+From           : i_mosi[0]
+To             : shift_register:shift_register_inst|shift_reg[0][0]
+From Clock     : --
+To Clock       : i_clk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'i_clk'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 425.17 MHz ( period = 2.352 ns )
+From           : edge_detector:edge_detector_inst|sck_d
+To             : shift_register:shift_register_inst|shift_reg[5][1]
+From Clock     : i_clk
+To Clock       : i_clk
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

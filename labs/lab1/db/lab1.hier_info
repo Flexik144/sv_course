@@ -1,0 +1,13 @@
+|logic_func
+x1 => y.IN0
+x2 => y.IN0
+x2 => y.IN0
+x3 => y.IN1
+x3 => y.IN1
+x3 => y.IN0
+x4 => y.IN1
+x4 => y.IN1
+x4 => y.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

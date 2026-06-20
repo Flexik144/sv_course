@@ -1,0 +1,73 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\temp_lab\lab1\run
+vlogic_func
+Z1 Mx1 6 sv_std 3 std
+Z2 DXx6 sv_std 3 std 0 22 WnQ=;W1X^o9K1PIQTgInR3
+Ij99=F8Xd^P>7QeTKC1l3H1
+V0f3[ijiB1L4[G67Df:Wmz3
+S1
+w1778905101
+8../logic_func.sv
+F../logic_func.sv
+L0 1
+Z3 OV;L;6.5b;42
+r1
+31
+o-O0
+!s100 W;UI76JQdfkV>HEM>MAWz3
+!s85 0
+!s101 -O0
+vtb_logic_func
+R1
+R2
+I8n913MJ`@M65ZB:A?fZUS2
+VQXd0@bMJ=HZ3??1SgJiH;0
+S1
+w1778907525
+8../tb_logic_func.sv
+F../tb_logic_func.sv
+L0 1
+R3
+r1
+31
+o-O0
+!s100 WhbU6Vi?Dd3lH74o57K:V1
+!s85 0
+!s101 -O0
+vtb_top_level_func
+R1
+R2
+!s100 d[K[1@FOzzgU8EP>QWF0B3
+IeIMPagZjcd?PCO08W;Uz32
+VX3NXmN:dKe1d=i;3H[L6F1
+S1
+w1778940462
+8../tb_top_level_func.sv
+F../tb_top_level_func.sv
+L0 3
+R3
+r1
+!s85 0
+31
+!s101 -O0
+o-O0
+vtop_level_func
+R1
+R2
+IEKWiX@Y`LGm7z1SaKe_LK3
+Vhk5D1``B@ZWhoaebbZb3J1
+S1
+w1778943208
+8../top_level_func.sv
+F../top_level_func.sv
+L0 2
+R3
+r1
+31
+o-O0
+!s100 >4Kk9XMXbRUC2]Og0V>NV1
+!s85 0
+!s101 -O0
